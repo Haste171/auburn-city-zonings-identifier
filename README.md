@@ -1,5 +1,7 @@
 # auburn-city-zonings-identifier
 
+Tool for visualizing specific zonings in Auburn, AL
+
 # Example Visualization 
 
 ### Zonings that allow 4+ unrelated roomates (highlighted in red) - useful for finding specific housing zones etc.
