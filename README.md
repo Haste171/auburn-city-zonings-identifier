@@ -2,8 +2,18 @@
 
 # Example Visualization 
 
-### Zonings that allow 4+ unrelated roomates highlighted in blue () - useful for finding specific housing zones etc.
-![Zonings that allow 4+ unrelated roommates](https://i.ibb.co/hFd8qFmq/annotated-city-zoning-ordinances-overlayed.png)
+### Zonings that allow 4+ unrelated roomates (highlighted in red) - useful for finding specific housing zones etc.
+
+<p align="center">
+  <strong>Before</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>After</strong>
+</p>
+<p align="center">
+  <img src="data/zoning_map.png" width="45%" />
+  <img src="data/preview.png" width="45%" />
+</p>
+
+
 
 ## Command Syntax
 
